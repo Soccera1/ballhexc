@@ -1,0 +1,1 @@
+Create an xlib + C application where a ball is inside a rotating hexagon. The ball is affected by Earth’s gravity and friction from the hexagon walls. The bouncing must appear realistic.
